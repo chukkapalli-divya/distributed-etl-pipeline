@@ -329,7 +329,4 @@ pytest tests/ -v --cov=pipeline --cov-report=term-missing
 ## Author
 
 **Divya Chukkapalli**
-MS Data Science — University of Houston (Dec 2026) | GPA: 3.39
-AWS Certified | Azure Certified | NVIDIA Deep Learning Institute Certified
-
-[Portfolio](https://chukkapalli-divya.github.io) | [LinkedIn](https://www.linkedin.com/in/chukkapalli-divya-172a55227/)
+MS Data Science — University of Houston (Dec 2026) 
